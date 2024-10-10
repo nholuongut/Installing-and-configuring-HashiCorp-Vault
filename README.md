@@ -8,7 +8,7 @@ Exercise files for use with the course Installing and Configuring HashiCorp Vaul
 
 ## Introduction
 
-Hello! These are the exercise files to go with my Pluralsight course, Installing and Configuring HashiCorp Vault
+Hello! These are the exercise files to go with my course, Installing and Configuring HashiCorp Vault
 
 ## Prerequisites
 
