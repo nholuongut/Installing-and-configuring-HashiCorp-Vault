@@ -4,7 +4,7 @@
 ### [View all Roadmaps](https://github.com/nholuongut/all-roadmaps) &nbsp;&middot;&nbsp; [Best Practices](https://github.com/nholuongut/all-roadmaps/blob/main/public/best-practices/) &nbsp;&middot;&nbsp; [Questions](https://www.linkedin.com/in/nholuong/)
 <br/>
 
-Exercise files for use with the Pluralsight course Installing and Configuring HashiCorp Vault
+Exercise files for use with the course Installing and Configuring HashiCorp Vault
 
 ## Introduction
 
